@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ngetichishmael</h1>
 <h3 align="center">
-![Ish](/ish.gif)
 In the digital realm where code streams flow, <br> 
 Where Spring Boot's blossoms quietly grow.<br>
 Java's warmth, a comforting light,<br>
