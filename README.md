@@ -9,21 +9,7 @@ Vue's reactivity, a beacon so bright.<br>
 React's components, in harmony bind, <br>
 AWS's cloud, vast and unconfined. <br>
 Through loops and functions, <br>
-my journey unwinds, <br>
-In frameworks and languages, <br>
-my passion finds.<br> 
-A symphony of syntax, <br>
-under screens' glow, <br>
-In the art of programming, <br>
-my spirit bestows. <br>
-With each line of code, <br>
-a story told,<br> 
-Of problems solved, <br>
-and dreams that unfold. <br>
-In the spring of technology,<br> 
-I find my role,<br> 
-Crafting the future, <br>
-my ultimate goal.</h3>
+my journey unwinds, <br></h3>
 
 ## My interests 🚀
 - **Computer Programming** - Building scalable and maintainable software.
