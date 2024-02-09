@@ -25,7 +25,7 @@ my journey unwinds, <br></h3>
 
 - 💬 Ask me about **React,Spring Boot,Vue, Java, Data Science, Laravel**
 
-- 📫 How to reach me **ngetichishmael786@gmail.com**
+- [📫 How to reach me Email](ngetichishmael786@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
