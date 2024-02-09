@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm ngetichishmael</h1>
 <h3 align="center">
- In the digital realm where code streams flow, <br>
- Where Spring Boot's blossoms quietly grow.<br>
+![Ish](/ish.gif)
+In the digital realm where code streams flow, <br> 
+Where Spring Boot's blossoms quietly grow.<br>
 Java's warmth, a comforting light,<br>
 Kotlin's agility, soaring in flight. <br>
 Laravel's elegance, scripting the night, <br>
