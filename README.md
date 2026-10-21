@@ -40,7 +40,7 @@
 2017  Chuka University            B.Sc → M.Sc
 ```
 
-<p align="center"><img src="assets/tower.gif" width="80%" alt="A lattice tower poured ring by ring, one ring per role from 2017 to 2026, while a tower crane lifts steel to the deck" /></p>
+<p align="center"><img src="assets/tower.webp" width="100%" alt="A lattice tower poured ring by ring, one ring per role from 2017 to 2026, while a tower crane lifts steel to the deck" /></p>
 
 ### Selected projects
 
