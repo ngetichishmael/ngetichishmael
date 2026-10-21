@@ -18,6 +18,8 @@
 
 ### In numbers
 
+<p align="center"><img src="assets/bridge.gif" width="100%" alt="A bridge deck launched segment by segment across three piers; each pier counter rolls up to 2024, 874 and 1M+ as the deck reaches it" /></p>
+
 <table>
   <tr>
     <td align="center" width="33%"><h2>2024</h2>leading development teams as technical lead, teams of five and six</td>
@@ -40,6 +42,8 @@
 
 ### Six years, one rack
 
+<p align="center"><img src="assets/tower.gif" width="100%" alt="A lattice tower poured ring by ring on its blueprint, one ring per role from 2017 to 2026, while a tower crane lifts steel to the deck" /></p>
+
 ```text
 2026  Jubilee (via Shinrai)   874 integration endpoints audited
 2025  Savannah Systems        9 build flavours, 144 migrations, team of six
@@ -52,6 +56,8 @@
 ```
 
 ### Tools I reach for
+
+<p align="center"><img src="assets/desk.gif" width="100%" alt="A drafting desk: the monitor types Go code and draws the tower in CAD beside a tray of language cartridges and the name Ishmael Ngetich on the wood" /></p>
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
@@ -71,9 +77,29 @@
 
 ### Work with me
 
+<p align="center"><img src="assets/services.gif" width="100%" alt="A services yard with three bays: a gantry fitting glass to a phone, packets running through a manifold between your app and M-Pesa, and a scissor lift servicing an office block" /></p>
+
 - **Mobile apps**: native iOS and Android, or cross-platform with Flutter, from MVP to full product.
 - **API integration**: payment gateways and M-Pesa, third-party services, REST and GraphQL, multi-service orchestration.
 - **Monthly maintenance**: bug fixes and patching, performance monitoring, dependency updates, monthly health reports.
+
+### Retainer: pay for what people use
+
+<p align="center"><img src="assets/water.gif" width="100%" alt="A water tower supplying a street through one meter: the meter counts active users and its tier lamp steps up at 20, 100, 500 and 2,000" /></p>
+
+| Tier | Active users | Monthly (KSh) | Monthly (USD) |
+|:---|:---|---:|---:|
+| Starter | up to 20 | 10,000 | ~$70 |
+| Growth | up to 100 | 35,000 | ~$240 |
+| Business | up to 500 | 100,000 | ~$680 |
+| Scale | up to 2,000 | 250,000 | ~$1,700 |
+| Enterprise | 2,000+ | custom | on request |
+
+Billed monthly per active user. Projects are quoted after a free scoping call.
+
+### Get in touch
+
+<p align="center"><img src="assets/gate.gif" width="100%" alt="The site gate: a gatehouse with business cards and a phone on the visitors desk, a mailbox, an intercom and a boom barrier" /></p>
 
 Every project starts with a free scoping call: [ngetichishmael786@gmail.com](mailto:ngetichishmael786@gmail.com?subject=Scoping%20call) · 0724 840 014
 
