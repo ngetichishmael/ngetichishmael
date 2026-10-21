@@ -30,15 +30,13 @@
 
 ### What I'm building
 
-| Project | What it does | Stack |
-|:---|:---|:---|
-| **Savannah Systems** | Multi-tenant shipping and logistics: one Go engine runs every brand, with orders, parcels, live tracking, payments and push. Three brands, three environments, nine build flavours. I lead a team of six. | Go · PostgreSQL · Redis · WebSocket · Nuxt · Flutter |
-| **Jubilee Life Portal** | Ten FastAPI services behind one life and pension portal, plus an endpoint-by-endpoint audit of the payments estate: 874 endpoints, 101 server errors, 84 timeouts. | Python · FastAPI · Spring Boot · PostgreSQL · Redis |
-| **AIMS v2** | Property management on a policy engine: every service asks one `require(ctx, action, resource)` before touching the database, and every decision lands on an audit log. | Kotlin · Spring Boot · Keycloak · Nuxt |
-| **Relay** | WhatsApp Business messaging workspace with signed delivery callbacks: sent, delivered, read. | Go · Vue · PostgreSQL |
-| **CheQBuy** | Assisted shopping with local delivery: M-Pesa, card, PayPal or bank, and one strict five-state order lifecycle. | Flutter · Go · Vue · PostgreSQL |
-| **Washamba** | Agri marketplace with a farmer's wallet on M-Pesa STK push, B2C and KCB wallet-as-a-service, with USSD for feature phones. | Laravel · PHP · MySQL |
-| **Praxis** | My own local-first spaced-repetition study app: a Rust SM-2 scheduler and one SQLite file, fully offline. | Rust · Tauri · Vue · SQLite |
+- **Savannah Systems**: multi-tenant logistics platform in Go, three brands on one engine. I lead a team of six.
+- **Jubilee Life Portal**: ten FastAPI services behind a life and pension portal, and an 874-endpoint payments audit.
+- **AIMS v2**: property management where every action goes through one policy engine.
+- **Relay**: WhatsApp Business messaging with signed delivery receipts.
+- **CheQBuy**: shopping with local delivery and M-Pesa, card, PayPal or bank payments.
+- **Washamba**: agri marketplace with a farmer's wallet on M-Pesa and KCB, plus USSD.
+- **Praxis**: my offline spaced-repetition study app, in Rust and Tauri.
 
 ### Six years, one rack
 
