@@ -81,20 +81,6 @@
 - **API integration**: payment gateways and M-Pesa, third-party services, REST and GraphQL, multi-service orchestration.
 - **Monthly maintenance**: bug fixes and patching, performance monitoring, dependency updates, monthly health reports.
 
-### Retainer: pay for what people use
-
-<p align="center"><img src="assets/water.gif" width="100%" alt="A water tower supplying a street through one meter: the meter counts active users and its tier lamp steps up at 20, 100, 500 and 2,000" /></p>
-
-| Tier | Active users | Monthly (KSh) | Monthly (USD) |
-|:---|:---|---:|---:|
-| Starter | up to 20 | 10,000 | ~$70 |
-| Growth | up to 100 | 35,000 | ~$240 |
-| Business | up to 500 | 100,000 | ~$680 |
-| Scale | up to 2,000 | 250,000 | ~$1,700 |
-| Enterprise | 2,000+ | custom | on request |
-
-Billed monthly per active user. Projects are quoted after a free scoping call.
-
 ### Get in touch
 
 <p align="center"><img src="assets/gate.gif" width="100%" alt="The site gate: a gatehouse with business cards and a phone on the visitors desk, a mailbox, an intercom and a boom barrier" /></p>
