@@ -1,22 +1,78 @@
-<p align="center"><img src="assets/yard.svg" width="100%" alt="An isometric construction yard on a workbench: a drafting desk with the name Ishmael Ngetich inked on the wood, a bridge over a model river, and a lattice tower beside a tower crane" /></p>
+<p align="center"><img src="assets/yard.svg" width="100%" alt="An isometric construction yard on a workbench: a drafting desk with the name Ishmael Ngetich inked on the wood, a bridge launched over a model river, and a lattice tower rising beside a tower crane" /></p>
 
-<h1 align="center">Hi 👋, I'm Ish</h1>
-<h3 align="center">
-Welcome to my digital world! <br>
-I enjoy working with:<br>
-- Spring Boot ♨️ <br>
-- Java 🍵 <br>
-- Kotlin 🦙 <br>
-- Laravel 🖥️ <br>
-- Vue 🌐 <br>
-- React ⚛️ <br>
-- AWS ☁️ <br>
-</h3>
+<h1 align="center">Ishmael Ngetich</h1>
 
-## My Interests 🚀
-- **Computer Programming**: Building scalable software. 💻
-- **AI & Machine Learning**: Exploring their real-world applications. 🤖
-- **Robotics**: Creating intelligent machines. 🦾
-- **Quantum Computing**: Investigating future computing possibilities. 🔮
+<p align="center">
+  <b>Senior Software Engineer · Technical Lead</b><br>
+  I build systems that carry real traffic, and the integrations that hold them together.<br>
+  Six years across web, mobile and APIs in Nairobi: payments, identity and logistics.
+</p>
 
+<p align="center">
+  <a href="mailto:ngetichishmael786@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ngetichishmael786%40gmail.com-0b1f3a?style=flat-square"></a>
+  <a href="https://linkedin.com/in/ngetichishmael"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ngetichishmael-0b1f3a?style=flat-square"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Based_in-Nairobi-c4933f?style=flat-square">
+</p>
 
+---
+
+### In numbers
+
+| | |
+|---:|:---|
+| **2024** | leading development teams as technical lead, teams of five and six |
+| **874** | integration endpoints audited end to end across a payments estate |
+| **1M+** | daily transactions carried by a platform I architected |
+
+### What I'm building
+
+| Project | What it does | Stack |
+|:---|:---|:---|
+| **Savannah Systems** | Multi-tenant shipping and logistics: one Go engine runs every brand, with orders, parcels, live tracking, payments and push. Three brands, three environments, nine build flavours. I lead a team of six. | Go · PostgreSQL · Redis · WebSocket · Nuxt · Flutter |
+| **Jubilee Life Portal** | Ten FastAPI services behind one life and pension portal, plus an endpoint-by-endpoint audit of the payments estate: 874 endpoints, 101 server errors, 84 timeouts. | Python · FastAPI · Spring Boot · PostgreSQL · Redis |
+| **AIMS v2** | Property management on a policy engine: every service asks one `require(ctx, action, resource)` before touching the database, and every decision lands on an audit log. | Kotlin · Spring Boot · Keycloak · Nuxt |
+| **Relay** | WhatsApp Business messaging workspace with signed delivery callbacks: sent, delivered, read. | Go · Vue · PostgreSQL |
+| **CheQBuy** | Assisted shopping with local delivery: M-Pesa, card, PayPal or bank, and one strict five-state order lifecycle. | Flutter · Go · Vue · PostgreSQL |
+| **Washamba** | Agri marketplace with a farmer's wallet on M-Pesa STK push, B2C and KCB wallet-as-a-service, with USSD for feature phones. | Laravel · PHP · MySQL |
+| **Praxis** | My own local-first spaced-repetition study app: a Rust SM-2 scheduler and one SQLite file, fully offline. | Rust · Tauri · Vue · SQLite |
+
+### Six years, one rack
+
+```text
+2026  Jubilee (via Shinrai)   874 integration endpoints audited
+2025  Savannah Systems        9 build flavours, 144 migrations, team of six
+2024  Real Sources Africa     Go + gRPC platform at 1M+ transactions a day
+2024  RBC                     p95 latency cut from 800 ms to 480 ms
+2023  Sokoflow                PHP monolith split into eight Go services
+2021  Deveint                 page load time down 40%
+2020  Oriol                   Android app rating 3.8 → 4.5
+2017  Chuka University        B.Sc → M.Sc
+```
+
+### Tools I reach for
+
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+</p>
+
+### Work with me
+
+- **Mobile apps**: native iOS and Android, or cross-platform with Flutter, from MVP to full product.
+- **API integration**: payment gateways and M-Pesa, third-party services, REST and GraphQL, multi-service orchestration.
+- **Monthly maintenance**: bug fixes and patching, performance monitoring, dependency updates, monthly health reports.
+
+Every project starts with a free scoping call: [ngetichishmael786@gmail.com](mailto:ngetichishmael786@gmail.com?subject=Scoping%20call) · 0724 840 014
+
+<sub>Outside client work I'm exploring applied AI and machine learning, robotics and quantum computing.</sub>
