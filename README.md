@@ -18,11 +18,13 @@
 
 ### In numbers
 
-| | |
-|---:|:---|
-| **2024** | leading development teams as technical lead, teams of five and six |
-| **874** | integration endpoints audited end to end across a payments estate |
-| **1M+** | daily transactions carried by a platform I architected |
+<table>
+  <tr>
+    <td align="center" width="33%"><h2>2024</h2>leading development teams as technical lead, teams of five and six</td>
+    <td align="center" width="33%"><h2>874</h2>integration endpoints audited end to end across a payments estate</td>
+    <td align="center" width="33%"><h2>1M+</h2>daily transactions carried by a platform I architected</td>
+  </tr>
+</table>
 
 ### What I'm building
 
